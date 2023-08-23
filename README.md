@@ -2,4 +2,4 @@
 <h4>src/main/java > admin, client (controller, dao, service, vo)</h4>
 <h4>src/main/resource > templates > query (쿼리문)</h4>
 <h4>src/main/webapp/WEB-INF > views > admin, client (view 단)</h4>
-<p>commit 로그는 QUICKet 메인 github 위 경로에 있습니다.</p>
+<br/><br/><p>commit 로그는 QUICKet 메인 github 위 경로에 있습니다.</p>
